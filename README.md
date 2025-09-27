@@ -4,10 +4,8 @@ I generally use this notebooks for my corporate training sessions for 20-30 exec
 
 ## Select Screenshots:
 
-<img width="840" height="840" alt="Untitled" src="https://github.com/user-attachments/assets/2b8fcab0-9353-4078-b3f8-a7f675d969ca" />
+<img width="350" height="350" alt="Untitled" src="https://github.com/user-attachments/assets/0dc9ceeb-a386-44b0-8b2f-f16e56c7c3bd" />
 
-<img width="500" height="500" alt="Untitled" src="https://github.com/user-attachments/assets/0dc9ceeb-a386-44b0-8b2f-f16e56c7c3bd" />
+<img width="350" height="350" alt="Untitled-1" src="https://github.com/user-attachments/assets/222af2d0-143d-42d6-9e3d-0434eb6c4573" />
 
-<img width="500" height="500" alt="Untitled-1" src="https://github.com/user-attachments/assets/222af2d0-143d-42d6-9e3d-0434eb6c4573" />
-
-
+<img width="350" height="350" alt="Untitled" src="https://github.com/user-attachments/assets/2b8fcab0-9353-4078-b3f8-a7f675d969ca" />
