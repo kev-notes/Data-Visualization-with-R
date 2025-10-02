@@ -1,6 +1,6 @@
-In this repository, I will be uploading R notebooks to showcase Data Visualization/Journalism.
+In this repository, I will be uploading R notebooks to demonstrate Data Visualization techniques tailored for journalism, showcasing charts designed specifically for news storytelling.
 
-I generally use this notebooks for my corporate training sessions for 20-30 executives.
+These notebooks serve as the core material for my corporate training sessions, where I work with groups of 20–30 executives.
 
 ## Select Screenshots:
 
